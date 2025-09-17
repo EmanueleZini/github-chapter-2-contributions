@@ -1288,8 +1288,6 @@ Hi my name is Hank! This was added on 23-08-2025 💩
 
 Hi, my name is Netmiko! This was added on <31-08-2025> ❤️
 
-Hi, my name is Emanuele! This was added on 17/09/2025 🥷🏻
-
 
 Hii! I'm Twilight! This was added on 31 August 2025 🌟
 
